@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite as below."
+authors:
+  - family-names: "Lund"
+    given-names: "Brady D."
+  - family-names: "Wang"
+    given-names: "Ting"
+  # ... rest ...
+title: "ChatGPT and a New Academic Reality"
+version: "1.0.0"
+date-released: "2023-05-01"
+doi: "10.1002/asi.24750"
